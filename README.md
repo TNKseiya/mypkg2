@@ -34,4 +34,4 @@ $rostopic echo /twice
 終了方法  
 cntl + cで止まる  
 # ライセンス
-GNU General Public License v3.0
+BSD 3-Clause "New" or "Revised" License
