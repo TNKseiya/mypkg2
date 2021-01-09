@@ -1,3 +1,7 @@
+// SPDX-License-Identifier: BSD
+//
+// Copyright (C) 2021 Ryuichi Ueda and　Seiya Tanaka.  All rights reserved.
+
 #!/usr/bin/env python3
 
 import rospy
